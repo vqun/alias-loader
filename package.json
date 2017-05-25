@@ -1,0 +1,30 @@
+{
+  "name": "alias-loader",
+  "version": "0.1.0",
+  "description": "A webpack loader used to resolve alias (typically in .less)",
+  "author": "veequn@qq.com",
+  "maintainers": [
+    "veequn@qq.com"
+  ],
+  "repository": "https://github.com/vqun/alias-loader",
+  "main": "./index.js",
+  "bugs": {
+    "url": "https://github.com/vqun/alias-loader/issues",
+    "email": "veequn@qq.com"
+  },
+  "peerDependencies": {
+    "webpack": "^1.0.0　|| ^2.0.0"
+  },
+  "keywords": [
+    "loader",
+    "webpack",
+    "webpack loader",
+    "less",
+    "less alias",
+    "alias resolve"
+  ],
+  "license": "MIT License",
+  "dependencies": {
+    "loader-utils": "^0.2.14"
+  }
+}
